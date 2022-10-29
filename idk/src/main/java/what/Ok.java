@@ -57,7 +57,7 @@ public class Ok {
         // TODO Auto-generated method stub
     	
         // Token
-        DiscordApi api = new DiscordApiBuilder().setToken("ODkxMTk1MjM0MDE5NTk4MzU3.Gzsbca.m-qh9D4eXbVmYh8OjLVq41hkitTNXCRho0qdLA")
+        DiscordApi api = new DiscordApiBuilder().setToken("[token]")
                 .login().join();
 
         // things
