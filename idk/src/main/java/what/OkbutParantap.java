@@ -17,7 +17,7 @@ public class OkbutParantap {
 		// TODO Auto-generated method stub
 		
 		 // Token
-        DiscordApi api = new DiscordApiBuilder().setToken("ODk0Mzc5NzgyNzg2MTU0NTQ4.GpByT6.5zJpxASDqoZeVerK2kAr6Rcj7N6hJeeWVgC5Rc")
+        DiscordApi api = new DiscordApiBuilder().setToken("[token]")
                 .login().join();
 
         // things
